@@ -25,6 +25,7 @@ Esse projeto foi desenvolvido com as seguintes Tecnologias e Ferramentas:
 - [NextJs](https://nextjs.org/) ```npx create-next-app podcast```
 - [Typescript](https://www.typescriptlang.org/) ```npm i typescript @types/react @types/node -D```
 - [Sass](https://sass-lang.com/) ```npm install sass```
+- [Date-fns]() ``` ```
 - [Linux](https://www.linux.org/)
 - [VsCode](https://code.visualstudio.com/)
 
