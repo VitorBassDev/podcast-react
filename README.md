@@ -22,8 +22,9 @@ Esse projeto foi desenvolvido com as seguintes Tecnologias e Ferramentas:
 - [JavaScrip](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Npm](https://www.npmjs.com/)
 - [React Native](https://reactnative.dev/)
-- [NextJs](https://nextjs.org/)
-- [Typescript](https://www.typescriptlang.org/)
+- [NextJs](https://nextjs.org/) ```npx create-next-app podcast```
+- [Typescript](https://www.typescriptlang.org/) ```npm i typescript @types/react @types/node -D```
+- [Sass](https://sass-lang.com/) ```npm install sass```
 - [Linux](https://www.linux.org/)
 - [VsCode](https://code.visualstudio.com/)
 
@@ -52,3 +53,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 By Vítor Guedes 👋🏻 [Linkedin](https://www.linkedin.com/in/vitor-guedes/)
 
+## Criação do Projeto
